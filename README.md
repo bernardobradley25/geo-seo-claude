@@ -31,13 +31,13 @@
 ### One-Command Install (macOS/Linux)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zubair-trabzada/geo-seo-claude/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/bernardobradley25/geo-seo-claude/main/install.sh | bash
 ```
 
 ### Manual Install
 
 ```bash
-git clone https://github.com/zubair-trabzada/geo-seo-claude.git
+git clone https://github.com/bernardobradley25/geo-seo-claude.git
 cd geo-seo-claude
 ./install.sh
 ```
